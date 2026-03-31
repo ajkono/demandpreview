@@ -94,15 +94,13 @@ Grafana
 4.	Save — the dashboard variables will populate automatically from the database
 ________________________________________
 Screenshots
-Hourly demand preview email from Tesla 
- 
-Inserts into SQL database  
-
-Compares order sequence and category to highlight any change from the previous email
- 
-Highlights green for positive change and red for negative change  
-   
- 
+**Source Email**
+ ![Demand Preview Email](screenshots/demandemail.png)
+**SQL Database**  
+![SQL Database](screenshots/demandpreviewsqldb.png)
+**Grafana Delta Dashboard**
+ ![Grafana Delta 1](screenshots/grafanadelta1.png)
+ ![Grafana Delta 2](screenshots/grafanadelta2.png)
 ________________________________________
 Author
 AJ Ono
