@@ -93,18 +93,25 @@ Grafana
 3.	Select your MSSQL datasource pointing to the DemandPreview database
 4.	Save — the dashboard variables will populate automatically from the database
 ________________________________________
-Screenshots
+## Screenshots
+
 **Source Email**
- ![Demand Preview Email](screenshots/demandemail.png)
-**SQL Database**  
+
+![Demand Preview Email](screenshots/demandemail.png)
+
+**SQL Database**
+
 ![SQL Database](screenshots/demandpreviewsqldb.png)
+
 **Grafana Delta Dashboard**
- ![Grafana Delta 1](screenshots/grafanadelta1.png)
- ![Grafana Delta 2](screenshots/grafanadelta2.png)
+
+![Grafana Delta 1](screenshots/grafanadelta1.png)
+
+![Grafana Delta 2](screenshots/grafanadelta2.png)
 ________________________________________
 Author
 AJ Ono
- https://www.linkedin.com/in/aj-ono
+https://www.linkedin.com/in/aj-ono
 713-823-4873
 ajkono2@gmail.com
 
